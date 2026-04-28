@@ -64,6 +64,7 @@ def menu():
             print("Thank you!")
             break
         else:
+       
             print("Invalid choice!")
-
+ print("System Ready")
 menu()
